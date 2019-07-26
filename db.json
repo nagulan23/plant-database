@@ -1,13 +1,64 @@
 {
   "plant_names": [
     {
-      "name": "Post 1"
+      "name": "Vallarai"
     },
     {
-      "name": "Post 2"
+      "name": "Brahmi"
     },
     {
-      "name": "Post 3"
+      "name": "Blacknight shade"
+    },
+    {
+      "name": "Sappon wood"
+    },
+    {
+      "name": "Gymnema"
+    },
+    {
+      "name": "Tulsi"
+    },
+    {
+      "name": "Noni"
+    },
+    {
+      "name": "Tyrethrum"
+    },
+    {
+      "name": "Digitalis"
+    },
+    {
+      "name": "Aswagandha"
+    },
+    {
+      "name": "Medicinal Disoscorea"
+    },
+    {
+      "name": "Medicinal Solanum"
+    },
+    {
+      "name": "Periwinkle"
+    },
+    {
+      "name": "Aloe"
+    },
+    {
+      "name": "Stevia"
+    },
+    {
+      "name": "Tippili"
+    },
+    {
+      "name": "Senna"
+    },
+    {
+      "name": "Medicinal Coleus"
+    },
+    {
+      "name": "Phylanthus"
+    },
+    {
+      "name": "Gloriosa"
     }
   ],
   "comments": [
