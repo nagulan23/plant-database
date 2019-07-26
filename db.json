@@ -1,16 +1,13 @@
 {
-  "posts": [
+  "plant_names": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "name": "Post 1"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "name": "Post 2"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "name": "Post 3"
     }
   ],
   "comments": [
