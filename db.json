@@ -1,122 +1,121 @@
 {
-	  "plant_names": [
-	    {
-	      "name": "Vallarai",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
-	      "needs": "1.Any container or grow bag or pot\n2. Vallarai – 3 or 4 plants with root.\n3.Potting mixture\n4. Of course interest\n",
-	      "soil": "I used a mixture of vermicompost, cow dung manure, coco peat (coir dust made from coconut husk- available ready made in the market in blocks), little soil (I used red soil as that is what is available in my place) and sand to grow vallarai. Make sure the potting mixture is loose and porous for the plant to grow well. There should be proper drainage in the container or grow bags. Make holes in the container, if it is not there. Fill the container with the potting mixture. Pour water lightly to wet the soil. Our container with potting mixture is ready.",
-	      "growth": "Get a bunch of vallarai from the market. You will definitely find at least a few with a little root (even a little root works). Keep aside 3-4 plants with root.\n\nOnce the pot is ready, plant the vallarai with root 4-5 cm deep and pack the soil around it well.\n\nPlace the pot in a place that receives morning sunlight or partial afternoon sunlight. That’s it.\n\nSprinkle water until the root takes hold and the plant settles. Once the plant settles, you can water the plant, if the soil is dry. Make sure the soil is damp and not soggy. So avoid over watering the plants. "
-	    },
-	    {
-	      "name": "Brahmi",
-	      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/brahmi/1.jpg",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/brahmi.png"
-	    },
-	    {
-	      "name": "Blacknight shade",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/blacknight_shade.png",
-	      "img2": "http://i40.tinypic.com/n3kub7.jpg"
-	    },
-	    {
-	      "name": "Gymnema",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/gymnema.png",
-	      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/gymnema/Picture%201.png"
-	    },
-	    {
-	      "name": "Tulsi",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/tulsi.png",
-	      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxVxSb5gA2QfVKBiDHQ_ebWFia_CXAGFWC5HhhuJQlKv1TFezHQ"
-	    },
-	    {
-	      "name": "Noni",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/noni.png",
-	      "img2": "https://i.ndtvimg.com/i/2015-04/fruit_625x350_61428471046.jpg"
-	    },
-	    {
-	      "name": "Pyrethrum",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Pyrethrum.png",
-	      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-Lv_nLSwRbUZ6RhGh2XN0nxYyZXGKmhVsgvyYDz_eQrDh516PA"
-	    },
-	    {
-	      "name": "Digitalis",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Digitalis.png",
-	      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWSUBwPHodvo7TYQy__ksKtQQgi-35LS6WT6AMDNtPdBCRhKWrQ"
-	    },
-	    {
-	      "name": "Aswagandha",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Ashwagandha.png",
-	      "img2": "",
-	      "soil": "It needs sandy and well-draining soil in a way that water will drain out quicklyIt needs sandy and well-draining soil in a way that water will drain out quickly, pH level should be around 7.5 – 8, neutral to slightly alkaline. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.",
-	      "growth": "Plant ashwagandha in dry and sunny location of your garden.\n\n Plant seeds 2 cm deep and 10 cm apart when temperature is around 70 F (20 C). Seeds will germinate in two weeks. Water the seedlings well while they are establishing. Thin out the weak plants after a month of growing, leaving the space around 50 – 60 cm between plants. Watering should be economical and only when plant seems thirsty."
-	    },
-	    {
-	      "name": "Medicinal Disoscorea",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Dioscorea.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Medicinal Solanum",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Solanum.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Periwinkle",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Periwinkle.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Aloe",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/AloeVera.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Stevia",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Stevia.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Tippili",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Thippili.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Senna",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Senna.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Medicinal Coleus",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Coleus.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Phylanthus",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Phyllanthus.png",
-	      "img2": ""
-	    },
-	    {
-	      "name": "Gloriosa",
-	      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Gloriosa.png",
-	      "img2": ""
-	    }
-	  ],
-	  "comments": [
-	    {
-	      "id": 1,
-	      "body": "some comment",
-	      "postId": 1
-	    },
-	    {
-	      "id": 2,
-	      "body": "some comment",
-	      "postId": 1
-	    }
-	  ],
-	  "profile": {
-	      "userId": 1,
-	      "id": 1,
-	      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-	      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-	  }
-	}
-
+  "plant_names": [
+    {
+      "name": "Vallarai",
+      "img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
+      "needs": "1.Any container or grow bag or pot\n2. Vallarai – 3 or 4 plants with root.\n3.Potting mixture\n4. Of course interest\n",
+      "soil": "I used a mixture of vermicompost, cow dung manure, coco peat (coir dust made from coconut husk- available ready made in the market in blocks), little soil (I used red soil as that is what is available in my place) and sand to grow vallarai. Make sure the potting mixture is loose and porous for the plant to grow well. There should be proper drainage in the container or grow bags. Make holes in the container, if it is not there. Fill the container with the potting mixture. Pour water lightly to wet the soil. Our container with potting mixture is ready.",
+      "growth": "Get a bunch of vallarai from the market. You will definitely find at least a few with a little root (even a little root works). Keep aside 3-4 plants with root.\n\nOnce the pot is ready, plant the vallarai with root 4-5 cm deep and pack the soil around it well.\n\nPlace the pot in a place that receives morning sunlight or partial afternoon sunlight. That’s it.\n\nSprinkle water until the root takes hold and the plant settles. Once the plant settles, you can water the plant, if the soil is dry. Make sure the soil is damp and not soggy. So avoid over watering the plants. "
+    },
+    {
+      "name": "Brahmi",
+      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/brahmi/1.jpg",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/brahmi.png"
+    },
+    {
+      "name": "Blacknight shade",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/blacknight_shade.png",
+      "img2": "http://i40.tinypic.com/n3kub7.jpg"
+    },
+    {
+      "name": "Gymnema",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/gymnema.png",
+      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/gymnema/Picture%201.png"
+    },
+    {
+      "name": "Tulsi",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/tulsi.png",
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxVxSb5gA2QfVKBiDHQ_ebWFia_CXAGFWC5HhhuJQlKv1TFezHQ"
+    },
+    {
+      "name": "Noni",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/noni.png",
+      "img2": "https://i.ndtvimg.com/i/2015-04/fruit_625x350_61428471046.jpg"
+    },
+    {
+      "name": "Pyrethrum",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Pyrethrum.png",
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-Lv_nLSwRbUZ6RhGh2XN0nxYyZXGKmhVsgvyYDz_eQrDh516PA"
+    },
+    {
+      "name": "Digitalis",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Digitalis.png",
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWSUBwPHodvo7TYQy__ksKtQQgi-35LS6WT6AMDNtPdBCRhKWrQ"
+    },
+    {
+      "name": "Aswagandha",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Ashwagandha.png",
+      "img2": "",
+      "soil": "It needs sandy and well-draining soil in a way that water will drain out quicklyIt needs sandy and well-draining soil in a way that water will drain out quickly, pH level should be around 7.5 – 8, neutral to slightly alkaline. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.",
+      "growth": "Plant ashwagandha in dry and sunny location of your garden.\n\n Plant seeds 2 cm deep and 10 cm apart when temperature is around 70 F (20 C). Seeds will germinate in two weeks. Water the seedlings well while they are establishing. Thin out the weak plants after a month of growing, leaving the space around 50 – 60 cm between plants. Watering should be economical and only when plant seems thirsty."
+    },
+    {
+      "name": "Medicinal Disoscorea",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Dioscorea.png",
+      "img2": ""
+    },
+    {
+      "name": "Medicinal Solanum",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Solanum.png",
+      "img2": ""
+    },
+    {
+      "name": "Periwinkle",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Periwinkle.png",
+      "img2": ""
+    },
+    {
+      "name": "Aloe",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/AloeVera.png",
+      "img2": ""
+    },
+    {
+      "name": "Stevia",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Stevia.png",
+      "img2": ""
+    },
+    {
+      "name": "Tippili",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Thippili.png",
+      "img2": ""
+    },
+    {
+      "name": "Senna",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Senna.png",
+      "img2": ""
+    },
+    {
+      "name": "Medicinal Coleus",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Coleus.png",
+      "img2": ""
+    },
+    {
+      "name": "Phylanthus",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Phyllanthus.png",
+      "img2": ""
+    },
+    {
+      "name": "Gloriosa",
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Gloriosa.png",
+      "img2": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  }
+}
