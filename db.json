@@ -10,7 +10,10 @@
     {
       "name": "Brahmi",
       "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/brahmi/1.jpg",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/brahmi.png"
+      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/brahmi.png",
+      "needs": "",
+      "soil": "",
+      "growth": ""
     },
     {
       "name": "Blacknight shade",
