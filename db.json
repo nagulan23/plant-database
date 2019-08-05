@@ -153,29 +153,7 @@
       "soil": "Well drained red loamy soil with pH of 5.5 - 6.5.",
       "growth": "Plantlets/suckers can be used for planting. The terminal cuttings of 5-10 cm are treated with NAA at 500 ppm for 5 minutes to induce rooting. Cuttings are dipped in Carbendazim 2g/lit solution. Raised beds at 3 feet width and 45 cm height are formed at 45 cm interval and planting is done on top of the bed at 15 x 15 cm spacing. The cuttings normally develop good root system within 21 days."
     }
-    ],
-  "fruits": [
-    {
-      "name": "Mango",
-      "img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/mango.png",
-      "soil": "Ideal soil for mango is red loamy. Good drainage is preferable for better establishment. Ideal pH range is from 6.5 to 8.0.",
-      "growth": "Approach and epicotyl grafts are used for planting. Planting spreads from July to December."
-    },
-    {
-      "name": "Banana",
-      "img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/banana.png",
-      "img2": "",
-      "soil": "Well drained loamy soils are suitable for banana cultivation. Alkaline and saline soils should be avoided.",
-      "growth": ""
-    },
-    {
-      "name": "Sapota",
-      "img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/sapota.png",
-      "soil": "It is a tropical crop and can be grown up to an altitude of 1000 metres. It can be grown in all types of soils.",
-      "growth": "Dig pits of 1 m x 1 m x 1 m size and fill up with top soil mixed with 10 Kg of FYM, 1 Kg of neem cake . Plant the grafts at the centre of the pit with ball of earth intact. The graft joint must be atleast 15 cm above the ground level.  After planting stake the plants properly to avoid bending or damage to graft joint during heavy winds."
-    }
-  ],
-  
+    ], 
   "comments": [
     {
       "id": 1,
