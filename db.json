@@ -137,6 +137,7 @@
     {
       "name": "Cut Rose",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20rose.png",
+      "img2": "",
       "soil": "It is generally suitable for higher elevation (1500 m and above). It can also be grown in the plains under ideal condition of fertile loamy soils with salt-free irrigation water. The ideal climate for rose growing should have temperature with a minimum of 15°C and maximum of 28°C. Light is important factor which decides the growth. The growth is slowed by day length, i.e. > 12 hours and heavy overcast, cloudy/mist conditions. High relative humidity exposes the plant to serious fungal diseases. In tropics the ideal temperature is 25°C – 30°C on sunny day and on cloudy day 18°C – 20°C. The optimum temperature should be 15°C – 18°C. These temperatures are extremely difficult to find and it’s therefore to compromise.",
       "growth": "The crop can be propagated by rooted cuttings or by budding on Briar root stocks in hills and on Edward Rose and Rosa indica in plains. One year old budded plants are planted in July - August at 75 cm x 75 cm spacing."
     },
@@ -150,6 +151,7 @@
     {
       "name": "Carnation",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/carnation.png",
+      "img2": "",
       "soil": "Well drained red loamy soil with pH of 5.5 - 6.5.",
       "growth": "Plantlets/suckers can be used for planting. The terminal cuttings of 5-10 cm are treated with NAA at 500 ppm for 5 minutes to induce rooting. Cuttings are dipped in Carbendazim 2g/lit solution. Raised beds at 3 feet width and 45 cm height are formed at 45 cm interval and planting is done on top of the bed at 15 x 15 cm spacing. The cuttings normally develop good root system within 21 days."
     }
