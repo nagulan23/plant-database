@@ -1,5 +1,5 @@
 {
-  "plant_names": [
+  "herbal_plants": [
     {
       "name": "Vallarai",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
@@ -31,7 +31,7 @@
       "name": "Tulsi",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/tulsi.png",
       "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxVxSb5gA2QfVKBiDHQ_ebWFia_CXAGFWC5HhhuJQlKv1TFezHQ",
-      "soil": "",
+      "soil": "The plant is sufficiently hardy and it can be grown on any type of soil except the ones with highly saline, alkaline or water logged conditions. However, sandy loam soil with good organic matter is considered ideal.",
       "growth": ""
     },
     {
@@ -133,6 +133,16 @@
       "growth": ""
     }
   ],
+  "flowering_plants": [
+    {
+      "name": "Cut Rose",
+      "img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20rose.png"
+    },
+    {
+      "name": "Carnation",
+      "img1": "http://agritech.tnau.ac.in/horticulture/images/carnation.png"
+    }
+    ],
   "comments": [
     {
       "id": 1,
