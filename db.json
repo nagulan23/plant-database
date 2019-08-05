@@ -1,5 +1,5 @@
 {
-  "Medicinal_Plants": [
+  "medicinal_Plants": [
     {
       "name": "Vallarai",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
@@ -133,7 +133,7 @@
       "growth": ""
     }
   ],
-  "Flowering Plants": [
+  "flowering_Plants": [
     {
       "name": "Cut Rose",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20rose.png"
