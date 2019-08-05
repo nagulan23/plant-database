@@ -175,26 +175,7 @@
       "growth": "Dig pits of 1 m x 1 m x 1 m size and fill up with top soil mixed with 10 Kg of FYM, 1 Kg of neem cake . Plant the grafts at the centre of the pit with ball of earth intact. The graft joint must be atleast 15 cm above the ground level.  After planting stake the plants properly to avoid bending or damage to graft joint during heavy winds."
     }
   ],
-  "vegetables": [
-    {
-      "name": "Carrots",
-      "img1": "http://agritech.tnau.ac.in/horticulture/horti_vegetables_carrot.html",
-      "soil": "Carrots prefer well-drained, light and aerated soil that doesn’t obstruct the root growth. You can either buy a quality potting soil for containers or make your own. Make sure the prepared soil is more sandy than clayey and have no stones or else your carrots will be crooked and bent. The soil should be slightly acidic to slightly alkaline, pH range from 5.5 – 7.5. Ideally, 6 – 6.8.",
-      "growth": "Once you’ve selected the carrot type you’re growing, gather the desired pots and fill them up with potting soil. Sow seeds 1/2 to 1/4 inches deep. After germination thin carrot seedlings (when they’re 2 inches tall) to about 2 – 3 inches apart. For thinning, instead of uprooting the baby plants, cut them using scissors so as not to disturb the roots of other plants."
-    },
-    {
-      "name": "Potatoes",
-      "img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/chinesepotato.png",
-      "soil": "Wet, clayey soils should be avoided. Light soils that are rich in organic matter is preferable. Growing potatoes require acidic soil with a pH level around 5-6.",
-      "growth": "Potato is normally propagated vegetatively by small (40 to 100 g) tubers, called 'seed tubers' or 'seed potatoes'. It can also be propagated by pieces of tuber ('seed pieces') or by true seed. The seed rate (tubers) ranges from 1.5 to 4.0 t/ha. The first problem facing growers in developing countries is obtaining supplies of healthy planting material of a suitable cultivar at an acceptable price. Some countries undertake traditional propagation of the seed tubers on sites in the highlands with suitable cool but frost-free climates and where the population of insect vectors of diseases can be kept at an adequately low level."
-    },
-    {
-      "name": "Paprika",
-      "img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/Paprika.png",
-      "soil": "Well-drained sandy loam or clay saline free soil is preferable. It can be grown on any fertile well-drained soil suitable for chillies cultivation with pH 6.5 - 7.0.",
-      "growth": "Prepare 10 - 12 beds of 7 m long 1.2 m wide and 15 cm height and sow the seeds in rows 10 cm apart on 0.5 cm deep. Apply 15 - 20 kg well decomposed compost and 500 g of 15:15:15 NPK complex fertilizer to each bed 15 to 20 days before sowing.Healthy seedlings may be transplanted at a spacing of 45 cm apart."
-    }
-    ],
+  
   "comments": [
     {
       "id": 1,
