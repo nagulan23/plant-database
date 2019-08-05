@@ -3,6 +3,7 @@
     {
       "name": "Vallarai",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
+      "needs": "1.Any container or grow bag or pot\n2. Vallarai – 3 or 4 plants with root.\n3.Potting mixture\n4. Of course interest\n",
       "soil": "I used a mixture of vermicompost, cow dung manure, coco peat (coir dust made from coconut husk- available ready made in the market in blocks), little soil (I used red soil as that is what is available in my place) and sand to grow vallarai. Make sure the potting mixture is loose and porous for the plant to grow well. There should be proper drainage in the container or grow bags. Make holes in the container, if it is not there. Fill the container with the potting mixture. Pour water lightly to wet the soil. Our container with potting mixture is ready.",
       "growth": "Get a bunch of vallarai from the market. You will definitely find at least a few with a little root (even a little root works). Keep aside 3-4 plants with root.\n\nOnce the pot is ready, plant the vallarai with root 4-5 cm deep and pack the soil around it well.\n\nPlace the pot in a place that receives morning sunlight or partial afternoon sunlight. That’s it.\n\nSprinkle water until the root takes hold and the plant settles. Once the plant settles, you can water the plant, if the soil is dry. Make sure the soil is damp and not soggy. So avoid over watering the plants. "
     },
@@ -10,50 +11,39 @@
       "name": "Brahmi",
       "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/brahmi/1.jpg",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/brahmi.png",
-      "soil": "The plant grows well in poorly drained soils. The plant prefers the soil of acidic nature for its congineal growth. . A temperature range of 33° – 40°C with relative humidity of 60-65 percent has been found for its optimum vegetative growth.",
-      "growth": "The cuttings of about 5-6 m long form the parent plant, each with a few leaves and nodes are ideal and establish easily. The cuttings are transplanted in wet soil at spacing of 10 x 10 cm to get maximum herbage yield.\n It is very essential to water the plant after transplanting for the survival and establishment of the plants. Irrigation should be avoided during rainy season. Brahmi likes to grow in a warm position. It will tolerate full sun and grows well in part sun."
+      "needs": "fdsff",
+      "soil": "fsdfsdff",
+      "growth": "gergerg"
     },
     {
       "name": "Blacknight shade",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/blacknight_shade.png",
-      "img2": "http://i40.tinypic.com/n3kub7.jpg",
-      "soil": "The plant comes up very well in tropical and subtropical climate upto 2000m altitude. They can be raised on a variety of soils good in organic matter. The plant grows in different kinds of soil including dry, stony, shallow or deep soils. It usually grows in moist habitat in wastelands or as weed. It can be cultivated in tropical and sub-tropical agro-climatic regions.",
-      "growth": "Propagation is by seeds. The seedlings are first raised in the nursery and transplanted to the main field 30-45 days after sowing when the plants attain 8-10 cm height. During rainy season, planting is done on ridges while during summer in furrows, at a spacing ranging from 30-90 cm depending upon the stature and spreading habit of the plant. The transplanted seedlings should be given temporary shade for 2-4 days during summer.The nursery beds and plantation should be irrigated periodically as and when required weekly or fortnightly. The plants are irrigated till it flowers. "
+      "img2": "http://i40.tinypic.com/n3kub7.jpg"
     },
     {
       "name": "Gymnema",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/gymnema.png",
-      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/gymnema/Picture%201.png",
-      "soil": "The species grows on a variety of soil in different localities. Red sandy loam or medium deep black soil is reported to be ideal for this crop. The plant is sensitive to water logging and hence its cultivation on such soil should be avoided.\nMadhunashini prefers tropical and sub-tropical type of climate. It is found growing even in dry areas also. The areas with high or medium well distributed rainfall are suitable for its cultivation.",
-      "growth": "The plant bears the fruits during November-December months. Seeds are collected from freshly harvested fruits. Then they soaked overnight in water and next day the seeds are sown in the seed pan containing soil mixed with sand. The seed pans are watered daily and the seeds germinate in about 15 days. After 40-50 days they are transplanted to polythene bags containing a mixture of soil, sand and FYM mixed in equal proportion. About 2-3 kg seeds are required for raising one hectare crop."
+      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/gymnema/Picture%201.png"
     },
     {
       "name": "Tulsi",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/tulsi.png",
-      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxVxSb5gA2QfVKBiDHQ_ebWFia_CXAGFWC5HhhuJQlKv1TFezHQ",
-      "soil": "",
-      "growth": ""
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxVxSb5gA2QfVKBiDHQ_ebWFia_CXAGFWC5HhhuJQlKv1TFezHQ"
     },
     {
       "name": "Noni",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/noni.png",
-      "img2": "https://i.ndtvimg.com/i/2015-04/fruit_625x350_61428471046.jpg",
-      "soil": "",
-      "growth": ""
+      "img2": "https://i.ndtvimg.com/i/2015-04/fruit_625x350_61428471046.jpg"
     },
     {
       "name": "Pyrethrum",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Pyrethrum.png",
-      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-Lv_nLSwRbUZ6RhGh2XN0nxYyZXGKmhVsgvyYDz_eQrDh516PA",
-      "soil": "",
-      "growth": ""
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-Lv_nLSwRbUZ6RhGh2XN0nxYyZXGKmhVsgvyYDz_eQrDh516PA"
     },
     {
       "name": "Digitalis",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Digitalis.png",
-      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWSUBwPHodvo7TYQy__ksKtQQgi-35LS6WT6AMDNtPdBCRhKWrQ",
-      "soil": "",
-      "growth": ""
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWSUBwPHodvo7TYQy__ksKtQQgi-35LS6WT6AMDNtPdBCRhKWrQ"
     },
     {
       "name": "Aswagandha",
@@ -65,72 +55,52 @@
     {
       "name": "Medicinal Disoscorea",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Dioscorea.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Medicinal Solanum",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Solanum.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Periwinkle",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Periwinkle.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Aloe",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/AloeVera.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Stevia",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Stevia.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Tippili",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Thippili.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Senna",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Senna.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Medicinal Coleus",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Coleus.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Phylanthus",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Phyllanthus.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     },
     {
       "name": "Gloriosa",
       "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Gloriosa.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
+      "img2": ""
     }
   ],
   "comments": [
