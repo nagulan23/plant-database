@@ -1,235 +1,230 @@
 {
-  "medicinal_Plants": {
-"name":"MEDICINAL PLANTS",
-"det": [
-    {
-      "name": "Vallarai",
-      "img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
-      "soil": "I used a mixture of vermicompost, cow dung manure, coco peat (coir dust made from coconut husk- available ready made in the market in blocks), little soil (I used red soil as that is what is available in my place) and sand to grow vallarai. Make sure the potting mixture is loose and porous for the plant to grow well. There should be proper drainage in the container or grow bags. Make holes in the container, if it is not there. Fill the container with the potting mixture. Pour water lightly to wet the soil. Our container with potting mixture is ready.",
-      "growth": "Get a bunch of vallarai from the market. You will definitely find at least a few with a little root (even a little root works). Keep aside 3-4 plants with root.\n\nOnce the pot is ready, plant the vallarai with root 4-5 cm deep and pack the soil around it well.\n\nPlace the pot in a place that receives morning sunlight or partial afternoon sunlight. That’s it.\n\nSprinkle water until the root takes hold and the plant settles. Once the plant settles, you can water the plant, if the soil is dry. Make sure the soil is damp and not soggy. So avoid over watering the plants. "
-    },
-    {
-      "name": "Brahmi",
-      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/brahmi/1.jpg",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/brahmi.png",
-      "soil": "The plant grows well in poorly drained soils. The plant prefers the soil of acidic nature for its congineal growth. . A temperature range of 33° – 40°C with relative humidity of 60-65 percent has been found for its optimum vegetative growth.",
-      "growth": "The cuttings of about 5-6 m long form the parent plant, each with a few leaves and nodes are ideal and establish easily. The cuttings are transplanted in wet soil at spacing of 10 x 10 cm to get maximum herbage yield.\n It is very essential to water the plant after transplanting for the survival and establishment of the plants. Irrigation should be avoided during rainy season. Brahmi likes to grow in a warm position. It will tolerate full sun and grows well in part sun."
-    },
-    {
-      "name": "Blacknight shade",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/blacknight_shade.png",
-      "img2": "http://i40.tinypic.com/n3kub7.jpg",
-      "soil": "The plant comes up very well in tropical and subtropical climate upto 2000m altitude. They can be raised on a variety of soils good in organic matter. The plant grows in different kinds of soil including dry, stony, shallow or deep soils. It usually grows in moist habitat in wastelands or as weed. It can be cultivated in tropical and sub-tropical agro-climatic regions.",
-      "growth": "Propagation is by seeds. The seedlings are first raised in the nursery and transplanted to the main field 30-45 days after sowing when the plants attain 8-10 cm height. During rainy season, planting is done on ridges while during summer in furrows, at a spacing ranging from 30-90 cm depending upon the stature and spreading habit of the plant. The transplanted seedlings should be given temporary shade for 2-4 days during summer.The nursery beds and plantation should be irrigated periodically as and when required weekly or fortnightly. The plants are irrigated till it flowers. "
-    },
-    {
-      "name": "Gymnema",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/gymnema.png",
-      "img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/gymnema/Picture%201.png",
-      "soil": "The species grows on a variety of soil in different localities. Red sandy loam or medium deep black soil is reported to be ideal for this crop. The plant is sensitive to water logging and hence its cultivation on such soil should be avoided.\nMadhunashini prefers tropical and sub-tropical type of climate. It is found growing even in dry areas also. The areas with high or medium well distributed rainfall are suitable for its cultivation.",
-      "growth": "The plant bears the fruits during November-December months. Seeds are collected from freshly harvested fruits. Then they soaked overnight in water and next day the seeds are sown in the seed pan containing soil mixed with sand. The seed pans are watered daily and the seeds germinate in about 15 days. After 40-50 days they are transplanted to polythene bags containing a mixture of soil, sand and FYM mixed in equal proportion. About 2-3 kg seeds are required for raising one hectare crop."
-    },
-    {
-      "name": "Tulsi",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/tulsi.png",
-      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxVxSb5gA2QfVKBiDHQ_ebWFia_CXAGFWC5HhhuJQlKv1TFezHQ",
-      "soil": "The plant is sufficiently hardy and it can be grown on any type of soil except the ones with highly saline, alkaline or water logged conditions. However, sandy loam soil with good organic matter is considered ideal.",
-      "growth": ""
-    },
-    {
-      "name": "Noni",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/noni.png",
-      "img2": "https://i.ndtvimg.com/i/2015-04/fruit_625x350_61428471046.jpg",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Pyrethrum",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Pyrethrum.png",
-      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-Lv_nLSwRbUZ6RhGh2XN0nxYyZXGKmhVsgvyYDz_eQrDh516PA",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Digitalis",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Digitalis.png",
-      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWSUBwPHodvo7TYQy__ksKtQQgi-35LS6WT6AMDNtPdBCRhKWrQ",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Aswagandha",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Ashwagandha.png",
-      "img2": "",
-      "soil": "It needs sandy and well-draining soil in a way that water will drain out quicklyIt needs sandy and well-draining soil in a way that water will drain out quickly, pH level should be around 7.5 – 8, neutral to slightly alkaline. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.",
-      "growth": "Plant ashwagandha in dry and sunny location of your garden.\n\n Plant seeds 2 cm deep and 10 cm apart when temperature is around 70 F (20 C). Seeds will germinate in two weeks. Water the seedlings well while they are establishing. Thin out the weak plants after a month of growing, leaving the space around 50 – 60 cm between plants. Watering should be economical and only when plant seems thirsty."
-    },
-    {
-      "name": "Medicinal Disoscorea",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Dioscorea.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Medicinal Solanum",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Solanum.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Periwinkle",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Periwinkle.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Aloe",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/AloeVera.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Stevia",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Stevia.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Tippili",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Thippili.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Senna",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Senna.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Medicinal Coleus",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Coleus.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Phylanthus",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Phyllanthus.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    },
-    {
-      "name": "Gloriosa",
-      "img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Gloriosa.png",
-      "img2": "",
-      "soil": "",
-      "growth": ""
-    }
-  ],
-},
-  "flowering_Plants": {
-"name":"FLOWERING PLANTS",
-"det": [
-    {
-      "name": "Cut Rose",
-      "img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20rose.png",
-      "img2": "",
-      "soil": "It is generally suitable for higher elevation (1500 m and above). It can also be grown in the plains under ideal condition of fertile loamy soils with salt-free irrigation water. The ideal climate for rose growing should have temperature with a minimum of 15°C and maximum of 28°C. Light is important factor which decides the growth. The growth is slowed by day length, i.e. > 12 hours and heavy overcast, cloudy/mist conditions. High relative humidity exposes the plant to serious fungal diseases. In tropics the ideal temperature is 25°C – 30°C on sunny day and on cloudy day 18°C – 20°C. The optimum temperature should be 15°C – 18°C. These temperatures are extremely difficult to find and it’s therefore to compromise.",
-      "growth": "The crop can be propagated by rooted cuttings or by budding on Briar root stocks in hills and on Edward Rose and Rosa indica in plains. One year old budded plants are planted in July - August at 75 cm x 75 cm spacing."
-    },
-    {
-      "name": "Cut Chrysanthemum",
-      "img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20chrysanthemum.png",
-      "img2": "",
-      "soil": "Well drained sandy loam soil with good texture and aeration or growing medium made of 1: 1: 2 of soil, compost and cocopeat with pH of 5.5 to 6.5.",
-      "growth": "Terminal cuttings and tissue culture plants are used. Terminal cuttings are widely used for commercial cultivation. Cuttings of 5-7 cm length are taken from healthy stock plants and are induced to root by treating with IBA (1000 ppm)."
-    },
-    {
-      "name": "Carnation",
-      "img1": "http://agritech.tnau.ac.in/horticulture/images/carnation.png",
-      "img2": "",
-      "soil": "Well drained red loamy soil with pH of 5.5 - 6.5.",
-      "growth": "Plantlets/suckers can be used for planting. The terminal cuttings of 5-10 cm are treated with NAA at 500 ppm for 5 minutes to induce rooting. Cuttings are dipped in Carbendazim 2g/lit solution. Raised beds at 3 feet width and 45 cm height are formed at 45 cm interval and planting is done on top of the bed at 15 x 15 cm spacing. The cuttings normally develop good root system within 21 days."
-    }
-    ],
-},
-  "fruits": {
-"name":"FRUIT PLANT",
-"det": [
-    {
-      "name": "Mango",
-      "img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/mango.png",
-      "img2": "",
-      "soil": "Ideal soil for mango is red loamy. Good drainage is preferable for better establishment. Ideal pH range is from 6.5 to 8.0.",
-      "growth": "Approach and epicotyl grafts are used for planting. Planting spreads from July to December."
-    },
-    {
-      "name": "Banana",
-      "img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/banana.png",
-      "img2": "",
-      "soil": "Well drained loamy soils are suitable for banana cultivation. Alkaline and saline soils should be avoided.",
-      "growth": ""
-    },
-    {
-      "name": "Sapota",
-      "img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/sapota.png",
-      "img2": "",
-      "soil": "It is a tropical crop and can be grown up to an altitude of 1000 metres. It can be grown in all types of soils.",
-      "growth": "Dig pits of 1 m x 1 m x 1 m size and fill up with top soil mixed with 10 Kg of FYM, 1 Kg of neem cake . Plant the grafts at the centre of the pit with ball of earth intact. The graft joint must be atleast 15 cm above the ground level.  After planting stake the plants properly to avoid bending or damage to graft joint during heavy winds."
-    }
-  ],
-},
-"vegetables":  {
-"name": "VEGETABLE PLANT",
-"det": [
-    {
-      "name": "Carrots",
-      "img1": "http://agritech.tnau.ac.in/horticulture/horti_vegetables_carrot.html",
-      "img2": "",
-      "soil": "Carrots prefer well-drained, light and aerated soil that doesn’t obstruct the root growth. You can either buy a quality potting soil for containers or make your own. Make sure the prepared soil is more sandy than clayey and have no stones or else your carrots will be crooked and bent. The soil should be slightly acidic to slightly alkaline, pH range from 5.5 – 7.5. Ideally, 6 – 6.8.",
-      "growth": "Once you’ve selected the carrot type you’re growing, gather the desired pots and fill them up with potting soil. Sow seeds 1/2 to 1/4 inches deep. After germination thin carrot seedlings (when they’re 2 inches tall) to about 2 – 3 inches apart. For thinning, instead of uprooting the baby plants, cut them using scissors so as not to disturb the roots of other plants."
-    },
-    {
-      "name": "Potatoes",
-      "img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/chinesepotato.png",
-      "img2": "",
-      "soil": "Wet, clayey soils should be avoided. Light soils that are rich in organic matter is preferable. Growing potatoes require acidic soil with a pH level around 5-6.",
-      "growth": "Potato is normally propagated vegetatively by small (40 to 100 g) tubers, called 'seed tubers' or 'seed potatoes'. It can also be propagated by pieces of tuber ('seed pieces') or by true seed. The seed rate (tubers) ranges from 1.5 to 4.0 t/ha. The first problem facing growers in developing countries is obtaining supplies of healthy planting material of a suitable cultivar at an acceptable price. Some countries undertake traditional propagation of the seed tubers on sites in the highlands with suitable cool but frost-free climates and where the population of insect vectors of diseases can be kept at an adequately low level."
-    },
-    {
-      "name": "Paprika",
-      "img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/Paprika.png",
-      "img2": "",
-      "soil": "Well-drained sandy loam or clay saline free soil is preferable. It can be grown on any fertile well-drained soil suitable for chillies cultivation with pH 6.5 - 7.0.",
-      "growth": "Prepare 10 - 12 beds of 7 m long 1.2 m wide and 15 cm height and sow the seeds in rows 10 cm apart on 0.5 cm deep. Apply 15 - 20 kg well decomposed compost and 500 g of 15:15:15 NPK complex fertilizer to each bed 15 to 20 days before sowing.Healthy seedlings may be transplanted at a spacing of 45 cm apart."
-    }
-    ],
-},
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-      "userId": 1,
-      "id": 1,
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  }
+	"medicinal_Plants": {
+		"name": "MEDICINAL PLANTS",
+		"det": [{
+				"name": "Vallarai",
+				"img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
+				"soil": "I used a mixture of vermicompost, cow dung manure, coco peat (coir dust made from coconut husk- available ready made in the market in blocks), little soil (I used red soil as that is what is available in my place) and sand to grow vallarai. Make sure the potting mixture is loose and porous for the plant to grow well. There should be proper drainage in the container or grow bags. Make holes in the container, if it is not there. Fill the container with the potting mixture. Pour water lightly to wet the soil. Our container with potting mixture is ready.",
+				"growth": "Get a bunch of vallarai from the market. You will definitely find at least a few with a little root (even a little root works). Keep aside 3-4 plants with root.\n\nOnce the pot is ready, plant the vallarai with root 4-5 cm deep and pack the soil around it well.\n\nPlace the pot in a place that receives morning sunlight or partial afternoon sunlight. That’s it.\n\nSprinkle water until the root takes hold and the plant settles. Once the plant settles, you can water the plant, if the soil is dry. Make sure the soil is damp and not soggy. So avoid over watering the plants. "
+			},
+			{
+				"name": "Brahmi",
+				"img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/brahmi/1.jpg",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/brahmi.png",
+				"soil": "The plant grows well in poorly drained soils. The plant prefers the soil of acidic nature for its congineal growth. . A temperature range of 33° – 40°C with relative humidity of 60-65 percent has been found for its optimum vegetative growth.",
+				"growth": "The cuttings of about 5-6 m long form the parent plant, each with a few leaves and nodes are ideal and establish easily. The cuttings are transplanted in wet soil at spacing of 10 x 10 cm to get maximum herbage yield.\n It is very essential to water the plant after transplanting for the survival and establishment of the plants. Irrigation should be avoided during rainy season. Brahmi likes to grow in a warm position. It will tolerate full sun and grows well in part sun."
+			},
+			{
+				"name": "Blacknight shade",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/blacknight_shade.png",
+				"img2": "http://i40.tinypic.com/n3kub7.jpg",
+				"soil": "The plant comes up very well in tropical and subtropical climate upto 2000m altitude. They can be raised on a variety of soils good in organic matter. The plant grows in different kinds of soil including dry, stony, shallow or deep soils. It usually grows in moist habitat in wastelands or as weed. It can be cultivated in tropical and sub-tropical agro-climatic regions.",
+				"growth": "Propagation is by seeds. The seedlings are first raised in the nursery and transplanted to the main field 30-45 days after sowing when the plants attain 8-10 cm height. During rainy season, planting is done on ridges while during summer in furrows, at a spacing ranging from 30-90 cm depending upon the stature and spreading habit of the plant. The transplanted seedlings should be given temporary shade for 2-4 days during summer.The nursery beds and plantation should be irrigated periodically as and when required weekly or fortnightly. The plants are irrigated till it flowers. "
+			},
+			{
+				"name": "Gymnema",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/gymnema.png",
+				"img2": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/gymnema/Picture%201.png",
+				"soil": "The species grows on a variety of soil in different localities. Red sandy loam or medium deep black soil is reported to be ideal for this crop. The plant is sensitive to water logging and hence its cultivation on such soil should be avoided.\nMadhunashini prefers tropical and sub-tropical type of climate. It is found growing even in dry areas also. The areas with high or medium well distributed rainfall are suitable for its cultivation.",
+				"growth": "The plant bears the fruits during November-December months. Seeds are collected from freshly harvested fruits. Then they soaked overnight in water and next day the seeds are sown in the seed pan containing soil mixed with sand. The seed pans are watered daily and the seeds germinate in about 15 days. After 40-50 days they are transplanted to polythene bags containing a mixture of soil, sand and FYM mixed in equal proportion. About 2-3 kg seeds are required for raising one hectare crop."
+			},
+			{
+				"name": "Tulsi",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/tulsi.png",
+				"img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxVxSb5gA2QfVKBiDHQ_ebWFia_CXAGFWC5HhhuJQlKv1TFezHQ",
+				"soil": "The plant is sufficiently hardy and it can be grown on any type of soil except the ones with highly saline, alkaline or water logged conditions. However, sandy loam soil with good organic matter is considered ideal.",
+				"growth": ""
+			},
+			{
+				"name": "Noni",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/noni.png",
+				"img2": "https://i.ndtvimg.com/i/2015-04/fruit_625x350_61428471046.jpg",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Pyrethrum",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Pyrethrum.png",
+				"img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-Lv_nLSwRbUZ6RhGh2XN0nxYyZXGKmhVsgvyYDz_eQrDh516PA",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Digitalis",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Digitalis.png",
+				"img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWSUBwPHodvo7TYQy__ksKtQQgi-35LS6WT6AMDNtPdBCRhKWrQ",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Aswagandha",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Ashwagandha.png",
+				"img2": "",
+				"soil": "It needs sandy and well-draining soil in a way that water will drain out quicklyIt needs sandy and well-draining soil in a way that water will drain out quickly, pH level should be around 7.5 – 8, neutral to slightly alkaline. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.. Growing Ashwagandha is not possible in soil that retains moisture and remains waterlogged.",
+				"growth": "Plant ashwagandha in dry and sunny location of your garden.\n\n Plant seeds 2 cm deep and 10 cm apart when temperature is around 70 F (20 C). Seeds will germinate in two weeks. Water the seedlings well while they are establishing. Thin out the weak plants after a month of growing, leaving the space around 50 – 60 cm between plants. Watering should be economical and only when plant seems thirsty."
+			},
+			{
+				"name": "Medicinal Disoscorea",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Dioscorea.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Medicinal Solanum",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Solanum.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Periwinkle",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Periwinkle.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Aloe",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/AloeVera.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Stevia",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Stevia.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Tippili",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Thippili.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Senna",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Senna.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Medicinal Coleus",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Coleus.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Phylanthus",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Phyllanthus.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			},
+			{
+				"name": "Gloriosa",
+				"img1": "http://agritech.tnau.ac.in/horticulture/MediFotos/Gloriosa.png",
+				"img2": "",
+				"soil": "",
+				"growth": ""
+			}
+		]
+	},
+	"flowering_Plants": {
+		"name": "FLOWERING PLANTS",
+		"det": [{
+				"name": "Cut Rose",
+				"img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20rose.png",
+				"img2": "",
+				"soil": "It is generally suitable for higher elevation (1500 m and above). It can also be grown in the plains under ideal condition of fertile loamy soils with salt-free irrigation water. The ideal climate for rose growing should have temperature with a minimum of 15°C and maximum of 28°C. Light is important factor which decides the growth. The growth is slowed by day length, i.e. > 12 hours and heavy overcast, cloudy/mist conditions. High relative humidity exposes the plant to serious fungal diseases. In tropics the ideal temperature is 25°C – 30°C on sunny day and on cloudy day 18°C – 20°C. The optimum temperature should be 15°C – 18°C. These temperatures are extremely difficult to find and it’s therefore to compromise.",
+				"growth": "The crop can be propagated by rooted cuttings or by budding on Briar root stocks in hills and on Edward Rose and Rosa indica in plains. One year old budded plants are planted in July - August at 75 cm x 75 cm spacing."
+			},
+			{
+				"name": "Cut Chrysanthemum",
+				"img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20chrysanthemum.png",
+				"img2": "",
+				"soil": "Well drained sandy loam soil with good texture and aeration or growing medium made of 1: 1: 2 of soil, compost and cocopeat with pH of 5.5 to 6.5.",
+				"growth": "Terminal cuttings and tissue culture plants are used. Terminal cuttings are widely used for commercial cultivation. Cuttings of 5-7 cm length are taken from healthy stock plants and are induced to root by treating with IBA (1000 ppm)."
+			},
+			{
+				"name": "Carnation",
+				"img1": "http://agritech.tnau.ac.in/horticulture/images/carnation.png",
+				"img2": "",
+				"soil": "Well drained red loamy soil with pH of 5.5 - 6.5.",
+				"growth": "Plantlets/suckers can be used for planting. The terminal cuttings of 5-10 cm are treated with NAA at 500 ppm for 5 minutes to induce rooting. Cuttings are dipped in Carbendazim 2g/lit solution. Raised beds at 3 feet width and 45 cm height are formed at 45 cm interval and planting is done on top of the bed at 15 x 15 cm spacing. The cuttings normally develop good root system within 21 days."
+			}
+		]
+	},
+	"fruits": {
+		"name": "FRUIT PLANT",
+		"det": [{
+				"name": "Mango",
+				"img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/mango.png",
+				"img2": "",
+				"soil": "Ideal soil for mango is red loamy. Good drainage is preferable for better establishment. Ideal pH range is from 6.5 to 8.0.",
+				"growth": "Approach and epicotyl grafts are used for planting. Planting spreads from July to December."
+			},
+			{
+				"name": "Banana",
+				"img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/banana.png",
+				"img2": "",
+				"soil": "Well drained loamy soils are suitable for banana cultivation. Alkaline and saline soils should be avoided.",
+				"growth": ""
+			},
+			{
+				"name": "Sapota",
+				"img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/sapota.png",
+				"img2": "",
+				"soil": "It is a tropical crop and can be grown up to an altitude of 1000 metres. It can be grown in all types of soils.",
+				"growth": "Dig pits of 1 m x 1 m x 1 m size and fill up with top soil mixed with 10 Kg of FYM, 1 Kg of neem cake . Plant the grafts at the centre of the pit with ball of earth intact. The graft joint must be atleast 15 cm above the ground level.  After planting stake the plants properly to avoid bending or damage to graft joint during heavy winds."
+			}
+		]
+	},
+	"vegetables": {
+		"name": "VEGETABLE PLANT",
+		"det": [{
+				"name": "Carrots",
+				"img1": "http://agritech.tnau.ac.in/horticulture/horti_vegetables_carrot.html",
+				"img2": "",
+				"soil": "Carrots prefer well-drained, light and aerated soil that doesn’t obstruct the root growth. You can either buy a quality potting soil for containers or make your own. Make sure the prepared soil is more sandy than clayey and have no stones or else your carrots will be crooked and bent. The soil should be slightly acidic to slightly alkaline, pH range from 5.5 – 7.5. Ideally, 6 – 6.8.",
+				"growth": "Once you’ve selected the carrot type you’re growing, gather the desired pots and fill them up with potting soil. Sow seeds 1/2 to 1/4 inches deep. After germination thin carrot seedlings (when they’re 2 inches tall) to about 2 – 3 inches apart. For thinning, instead of uprooting the baby plants, cut them using scissors so as not to disturb the roots of other plants."
+			},
+			{
+				"name": "Potatoes",
+				"img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/chinesepotato.png",
+				"img2": "",
+				"soil": "Wet, clayey soils should be avoided. Light soils that are rich in organic matter is preferable. Growing potatoes require acidic soil with a pH level around 5-6.",
+				"growth": "Potato is normally propagated vegetatively by small (40 to 100 g) tubers, called 'seed tubers' or 'seed potatoes'. It can also be propagated by pieces of tuber ('seed pieces') or by true seed. The seed rate (tubers) ranges from 1.5 to 4.0 t/ha. The first problem facing growers in developing countries is obtaining supplies of healthy planting material of a suitable cultivar at an acceptable price. Some countries undertake traditional propagation of the seed tubers on sites in the highlands with suitable cool but frost-free climates and where the population of insect vectors of diseases can be kept at an adequately low level."
+			},
+			{
+				"name": "Paprika",
+				"img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/Paprika.png",
+				"img2": "",
+				"soil": "Well-drained sandy loam or clay saline free soil is preferable. It can be grown on any fertile well-drained soil suitable for chillies cultivation with pH 6.5 - 7.0.",
+				"growth": "Prepare 10 - 12 beds of 7 m long 1.2 m wide and 15 cm height and sow the seeds in rows 10 cm apart on 0.5 cm deep. Apply 15 - 20 kg well decomposed compost and 500 g of 15:15:15 NPK complex fertilizer to each bed 15 to 20 days before sowing.Healthy seedlings may be transplanted at a spacing of 45 cm apart."
+			}
+		]
+	},
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"userId": 1,
+		"id": 1,
+		"title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+		"body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+	}
 }
