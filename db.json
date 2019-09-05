@@ -1,5 +1,7 @@
 {
-  "medicinal_Plants": [
+  "medicinal_Plants": {
+"name":"MEDICINAL PLANTS",
+"det": [
     {
       "name": "Vallarai",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/medicinal_plants/vallarai/Leaf.png",
@@ -133,7 +135,10 @@
       "growth": ""
     }
   ],
-  "flowering_Plants": [
+},
+  "flowering_Plants": {
+"name":"FLOWERING PLANTS",
+"det": [
     {
       "name": "Cut Rose",
       "img1": "http://agritech.tnau.ac.in/horticulture/images/cut%20rose.png",
@@ -156,7 +161,10 @@
       "growth": "Plantlets/suckers can be used for planting. The terminal cuttings of 5-10 cm are treated with NAA at 500 ppm for 5 minutes to induce rooting. Cuttings are dipped in Carbendazim 2g/lit solution. Raised beds at 3 feet width and 45 cm height are formed at 45 cm interval and planting is done on top of the bed at 15 x 15 cm spacing. The cuttings normally develop good root system within 21 days."
     }
     ],
-  "fruits": [
+},
+  "fruits": {
+"name":"FRUIT PLANT",
+"det": [
     {
       "name": "Mango",
       "img1": "http://agritech.tnau.ac.in/horticulture/fruit_thumb/mango.png",
@@ -179,7 +187,10 @@
       "growth": "Dig pits of 1 m x 1 m x 1 m size and fill up with top soil mixed with 10 Kg of FYM, 1 Kg of neem cake . Plant the grafts at the centre of the pit with ball of earth intact. The graft joint must be atleast 15 cm above the ground level.  After planting stake the plants properly to avoid bending or damage to graft joint during heavy winds."
     }
   ],
-"vegetables": [
+},
+"vegetables":  {
+"name": "VEGETABLE PLANT",
+"det": [
     {
       "name": "Carrots",
       "img1": "http://agritech.tnau.ac.in/horticulture/horti_vegetables_carrot.html",
@@ -202,7 +213,7 @@
       "growth": "Prepare 10 - 12 beds of 7 m long 1.2 m wide and 15 cm height and sow the seeds in rows 10 cm apart on 0.5 cm deep. Apply 15 - 20 kg well decomposed compost and 500 g of 15:15:15 NPK complex fertilizer to each bed 15 to 20 days before sowing.Healthy seedlings may be transplanted at a spacing of 45 cm apart."
     }
     ],
-
+},
   "comments": [
     {
       "id": 1,
