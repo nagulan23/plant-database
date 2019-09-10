@@ -549,6 +549,24 @@
 				"crown": "",
 				"caring": "https://www.wikihow.com/Grow-Eggplants-in-Pots#Care-and-Harvest_sub",
 				"growth": ""
+			},
+			{
+				"name": "Chilies",
+				"img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/chilli.png",
+				"img2": "",
+				"soil": "Chillies love light loamy soil. A little bit of silt, lots of rich organic matter with lots of nice air pockets and good drainage.",
+				"water": "Chilli plants enjoy a good watering followed by a period without water – until the compost is almost dry. Select a compost with good drainage to help keep air in the soil and try to avoid the pot standing in water.",
+				"sunlight": "6 hours of sunlight a day is the minimum amount of light needed for them to grow, though more sunlight is better.",
+				"sunlink": "",
+				"seed": "https://www.wikihow.com/Grow-Green-Chili#Sowing-the-Seeds_sub",
+				"seedlings": "https://www.wikihow.com/Grow-Green-Chili#Transplanting-the-Seedlings_sub",
+				"cuttings": "",
+				"bulb": "",
+				"inwater": "",
+				"crom": "",
+				"crown": "",
+				"caring": "https://www.wikihow.com/Grow-Green-Chili#Maintaining-Your-Plants_sub",
+				"growth": ""
 			}
 		]
 	},
