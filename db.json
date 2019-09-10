@@ -603,6 +603,24 @@
 				"crown": "",
 				"caring": "https://www.wikihow.com/Grow-Curry-Leaves#Caring-for-the-Plant_sub",
 				"growth": ""
+			},
+			{
+				"name": "Capsicum",
+				"img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/Capsicum.png",
+				"img2": "",
+				"soil": "Well-drained sandy loam soils having good percolation is most suitable to grow capsicum.",
+				"water": "Water moderately when the op soil seems dry.",
+				"sunlight": "Capsicum grows well in partial sun to shade – around 3-4 hours of morning/evening sunlight with some afternoon shade.",
+				"sunlink": "",
+				"seed": "https://www.wikihow.com/Grow-Bell-Peppers#Growing-Bell-Peppers-from-Seed_sub",
+				"seedlings": "",
+				"cuttings": "",
+				"bulb": "",
+				"inwater": "",
+				"crom": "",
+				"crown": "",
+				"caring": "https://www.wikihow.com/Grow-Bell-Peppers#Caring-for-Bell-Peppers_sub",
+				"growth": ""
 			}
 		]
 	},
