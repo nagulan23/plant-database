@@ -567,6 +567,42 @@
 				"crown": "",
 				"caring": "https://www.wikihow.com/Grow-Green-Chili#Maintaining-Your-Plants_sub",
 				"growth": ""
+			},
+			{
+				"name": "Tomatos",
+				"img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/tomato.png",
+				"img2": "",
+				"soil": "Loam and sandy loam soils are best for tomato production, but these plants will grow in almost all soil types except heavy clay.",
+				"water": "Water newly planted tomatoes well to make sure soil is moist and ideal for growing. Early in the growing season, watering plants daily in the morning. As temperatures increase, you might need to water tomato plants twice a day.",
+				"sunlight": "Tomatoes thrive in full sun. For healthy growth, tomato plants require at least 8 hours of direct sunlight a day.",
+				"sunlink": "",
+				"seed": "https://www.wikihow.com/Grow-Tomatoes-in-Pots#Planting-Your-Tomatoes_sub",
+				"seedlings": "",
+				"cuttings": "",
+				"bulb": "",
+				"inwater": "",
+				"crom": "",
+				"crown": "",
+				"caring": "https://www.wikihow.com/Grow-Tomatoes-in-Pots#Caring-for-Your-Tomatoes_sub",
+				"growth": ""
+			},
+			{
+				"name": "Curry leaf",
+				"img1": "http://agritech.tnau.ac.in/horticulture/vegetables/new/curryleaf.png",
+				"img2": "",
+				"soil": "Red sandy loam soils with good drainage are ideal for better leaf yield.",
+				"water": "Water the plant if its upper layer is dry. Do not water log it as it may weaken the plant.",
+				"sunlight": "The plant grows well in full to part sun,",
+				"sunlink": "",
+				"seed": "https://www.wikihow.com/Grow-Curry-Leaves#Planting-Your-Curry_sub",
+				"seedlings": "",
+				"cuttings": "",
+				"bulb": "",
+				"inwater": "",
+				"crom": "",
+				"crown": "",
+				"caring": "https://www.wikihow.com/Grow-Curry-Leaves#Caring-for-the-Plant_sub",
+				"growth": ""
 			}
 		]
 	},
